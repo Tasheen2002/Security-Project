@@ -10,8 +10,8 @@ pids
 *.seed
 *.pid.lock
 
-# Environment variables
-.env
+# Environment variables (keep .env files with sample values for demo)
+# .env files are included for demo purposes with placeholder values
 .env.local
 .env.development.local
 .env.test.local
